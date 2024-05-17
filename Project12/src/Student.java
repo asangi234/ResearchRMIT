@@ -5,7 +5,9 @@ public class Student {
 	
 public String address;
 
-public int age;
+public string age;
+
+
 
 
 }
